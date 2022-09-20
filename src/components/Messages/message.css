@@ -1,0 +1,17 @@
+.messageContainer {
+  width: max-content;
+  height: 600px;
+  overflow: scroll;
+  background-color: aliceblue;
+  padding: 20px;
+}
+
+.listmessage {
+  color: black;
+  font-size: 20px;
+  margin-top: 10px;
+}
+.listmessage:hover {
+  border-bottom: 1px solid rgb(234, 103, 103);
+  background-color: beige;
+}

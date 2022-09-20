@@ -1,0 +1,21 @@
+.contactsContainer {
+  width: 600px;
+  height: 600px;
+  overflow: auto;
+  background-color: aliceblue;
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+.listcontacts {
+  color: black;
+  font-size: 20px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.listcontacts:hover {
+  border-bottom: 1px solid rgb(234, 103, 103);
+  background-color: beige;
+}

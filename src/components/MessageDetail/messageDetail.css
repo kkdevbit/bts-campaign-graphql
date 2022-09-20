@@ -1,0 +1,29 @@
+.message-detail-container {
+  /* width: 100%; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: antiquewhite;
+  flex-wrap: wrap;
+  margin: auto;
+  padding: 40px;
+  border-radius: 10px;
+}
+.main {
+  width: 50%;
+}
+.message-detail-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  margin-bottom: 20px;
+}
+.message-detail-image img {
+  width: 50%;
+  border-radius: 80%;
+}
+.message-detail-text {
+  font-size: 16px;
+}
